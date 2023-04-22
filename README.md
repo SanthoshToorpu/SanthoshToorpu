@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanthoshToorpu
 - 👀 I’m interested in LEARNING HOW TO CODE
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Machine Learning using Tensor Flow
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
